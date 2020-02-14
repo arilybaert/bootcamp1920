@@ -1,2 +1,2 @@
-# bootcamp1920
+# Bootcamp1920
 Paris-Roubaix application bootcamp1920
