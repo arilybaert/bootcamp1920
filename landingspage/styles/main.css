@@ -1,12 +1,6 @@
-@import url("https://use.typekit.net/nzx0spz.css");
 
-:root {
-    --color-blue: #00F6F4;
-    --color-black: #0E171B;
-    --color-white: #FFFFFF;
-    --font-serif: Georgia;
-    --font-main: 'proxima nova';
-}
+
+
 
 /*********************************** NAVIGATION **********************************/
 
@@ -19,7 +13,7 @@
     height: 95vh;
     background-size: cover;
     background-position: 90% 90%;
-    background-image: url('img/wallpaper.jpg');
+    background-image: url('../img/wallpaper.jpg');
 }
 
 .o-title__position {
@@ -76,7 +70,7 @@
 }
 
 .m-intro {
-    background-color: var(--color-black);
+    background-color: var(--color-black-alpha);
     padding: 30px;
     border-radius: 5px;
     width: 90%;

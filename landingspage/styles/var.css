@@ -1,0 +1,8 @@
+:root {
+    --color-blue: #00F6F4;
+    --color-black: #0E171B;
+    --color-black-alpha: hsla(198, 32%, 8%, 0.75);
+    --color-white: #FFFFFF;
+    --font-serif: Georgia;
+    --font-main: 'proxima nova';
+}
